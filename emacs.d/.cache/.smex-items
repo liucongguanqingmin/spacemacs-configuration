@@ -1,0 +1,44 @@
+
+;; ----- smex-history -----
+(
+ configuration-layer/create-layer
+ package-list-packages
+ package-install
+ customize-group
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+ erc
+ ert
+ eww
+ ftp
+ gdb
+ irc
+ jdb
+ man
+ mpc
+ pdb
+ pwd
+ rsh
+ sdb
+ xdb
+ calc
+ diff
+ dirs
+ ffap
+ gnus
+ grep
+ help
+ ielm
+ info
+)
+
+;; ----- smex-data -----
+(
+ (customize-group . 1)
+ (package-install . 1)
+ (package-list-packages . 1)
+ (configuration-layer/create-layer . 2)
+)

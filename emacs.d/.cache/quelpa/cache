@@ -1,0 +1,1 @@
+((evil-unimpaired :fetcher file :path "/Users/shadowalker/.emacs.d/layers/+spacemacs/spacemacs-evil/local/evil-unimpaired") (font-lock+ :fetcher github :repo emacsmirror/font-lock-plus) (hybrid-mode :fetcher file :path "/Users/shadowalker/.emacs.d/layers/+distributions/spacemacs-bootstrap/local/hybrid-mode"))

@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/project/myvue/cnodes-ant-design-vue/" "~/.spacemacs.d/" "~/project/haihe/monitoring-gateway/" "~/project/haihe/monitoring-component/")

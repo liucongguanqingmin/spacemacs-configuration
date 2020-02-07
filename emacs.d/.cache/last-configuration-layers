@@ -1,0 +1,2 @@
+
+(setq dotspacemacs-configuration-layers '((go :variables go-use-gometalinter t :variables gofmt-command "goimports") helm auto-completion better-defaults emacs-lisp git ivy markdown org spell-checking syntax-checking))
